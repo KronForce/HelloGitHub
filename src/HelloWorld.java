@@ -6,5 +6,7 @@ public class HelloWorld {
         System.out.println("Hello GitHub!");
         WriterOfString w = new WriterOfString();
         w.whw("1456");
+        Writer writer = new Writer();
+        w.whw("123");
     }
 }
